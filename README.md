@@ -1,16 +1,7 @@
 # Analysing-bank-customers-data
 
 ## Description
-`Project1_INE` is my first project in the INE and SDA Data Science Bootcamp. This assignment involved exploring, analyzing a dataset using Python and Jupyter Notebook as a data analyst.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
+`Analysing-bank-customers-data` is my first project in the INE and SDA Data Science Bootcamp. This assignment involved exploring, analyzing a dataset using Python and Jupyter Notebook as a data analyst.
 
 ### Prerequisites
 Ensure you have the following installed:
